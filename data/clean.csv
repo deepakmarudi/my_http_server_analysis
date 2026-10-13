@@ -1,0 +1,1 @@
+run_id,valid,failure_reason,mode,workload_name,requested_rate,achieved_throughput,throughput_ratio,p50_latency_ms,p95_latency_ms,p99_latency_ms,total_requests,error_count,timeout_count,cpu_percent_avg,cpu_percent_max,memory_bytes_avg,memory_bytes_max,duration_seconds,wrk_threads,wrk_connections,server_workers,target_url,started_at,ended_at,repeat,raw_dir,server_commit

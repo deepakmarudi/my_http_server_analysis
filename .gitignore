@@ -1,3 +1,12 @@
-data/raw/
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/server_git_baseline.txt
+results/figures/*
+!results/figures/.gitkeep
+results/.matplotlib/
+
+loadtest/wrk2/
+.venv/
 __pycache__/
+*.pyc
 .ipynb_checkpoints/

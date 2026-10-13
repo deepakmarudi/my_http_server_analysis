@@ -1,0 +1,5 @@
+server_dir=/home/deepak_marudi/myProjects/epoll-perf-analytics/server
+commit=5efe0bd4c5c93c5fdc7de5bcd5d2268fe8a8a3ca
+captured_at_utc=2026-10-13T12:43:21Z
+status_begin
+status_end
